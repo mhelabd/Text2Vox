@@ -1,2 +1,4 @@
 [submodule "Pix2Vox++"]
-	ignore = untracked
+  	path = Pix2Vox++/                                                    
+	url = https://gitlab.com/hzxie/Pix2Vox/ 
+	ignore = dirty
