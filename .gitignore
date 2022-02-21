@@ -106,7 +106,9 @@ ENV/
 #PIX2VOX
 
 # Datasets
-Pix2Vox++/datasets/
+Pix2Vox++/datasets/Pix3D
+Pix2Vox++/datasets/ShapeNet
+Pix2Vox++/datasets/*tgz
 
 # Output
 Pix2Vox++/output/
